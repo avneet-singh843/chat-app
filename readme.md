@@ -23,9 +23,7 @@ https://github.com/user-attachments/assets/11b9865d-47cd-45b5-ae0c-23d565783bb1
 <img width="374" height="786" alt="Screenshot 2025-07-26 at 6 45 51 PM" src="https://github.com/user-attachments/assets/55ced1b4-6f19-417d-9182-16dd270636fe" />
 
 
-![JoinScreen.tsx](Insert Screenshot of JoinScreen.tsx)  
-![ChatScreen.tsx](Insert Screenshot of ChatScreen.tsx)  
-![ChatScreen.tsx](Insert Screenshot of ChatScreen.tsx)
+
 
 ---
 
