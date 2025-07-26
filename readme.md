@@ -3,12 +3,25 @@
 A real-time, lightweight group chat application built with React Native and Node.js. This project demonstrates a clean, functional, and scalable approach to building real-time mobile applications.
 
 ## 📺 Demo & Screenshots
+**1. Group Chatting** 
 
-(Leave this section for your screen recordings and screenshots. A short GIF of the app in action is highly effective!)
+
+https://github.com/user-attachments/assets/3fb0429b-d52a-4879-90c0-ae52cc50eb96
+
+
+**2. Message persistence** 
+
+
+
+https://github.com/user-attachments/assets/11b9865d-47cd-45b5-ae0c-23d565783bb1
+
 
 **Join Screen**  
-**Chat Screen (My Message)**  
-**Chat Screen (Other's Message)**
+<img width="361" height="787" alt="Screenshot 2025-07-26 at 6 46 06 PM" src="https://github.com/user-attachments/assets/44e095b9-c04c-4fab-9eae-5f7675c164ac" />
+
+**Chat Screen**  
+<img width="374" height="786" alt="Screenshot 2025-07-26 at 6 45 51 PM" src="https://github.com/user-attachments/assets/55ced1b4-6f19-417d-9182-16dd270636fe" />
+
 
 ![JoinScreen.tsx](Insert Screenshot of JoinScreen.tsx)  
 ![ChatScreen.tsx](Insert Screenshot of ChatScreen.tsx)  
